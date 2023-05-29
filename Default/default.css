@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #fff;
+}
+div{
+  border-radius: 30px;
+}
+ul,li,ol{
+  list-style: none;
+}

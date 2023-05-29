@@ -1,0 +1,13 @@
+.title-graph{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(50, 115, 236);
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom:15px;
+  text-shadow: 1px 1px 1px rgb(146, 214, 241);
+}
+.container-graph{
+  width: 100vw;
+  height: 500px;
+  
+}
